@@ -69,7 +69,7 @@
 
 ## Dataset locations
 
-| Dataset | Path | Reported Count | Prompt type | Introduction |
+| Dataset | Path | Reported Count | Prompt field | Introduction |
 |--------|------|------|-------------|------|
 | CySecBench | `datasets/CySecBench/Dataset/Full dataset/cysecbench.csv` | 12,662 | `Prompt` | Direct malicious prompts without jailbreak wrapping. |
 | CyberattackAssistance | `datasets/CyberattackAssistance/mitre_benchmark.json` | 1,000 | `base_prompt` | Contextually wrapped prompts based on MITRE ATT&CK. |
