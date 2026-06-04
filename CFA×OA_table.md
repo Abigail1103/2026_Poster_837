@@ -1,6 +1,6 @@
-<h3 align="center">
+<h2 align="center">
   <strong>Cross-tabulation of CFA and OA</strong>
-</h3>
+</h2>
 
 <table align="center">
 <thead>
