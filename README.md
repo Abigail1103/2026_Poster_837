@@ -128,7 +128,7 @@
 </table>
 
 ## CFA × OA cross-tabulation
-<table align="center">
+<table align="left">
 <thead>
 <tr>
 <th align="left">CFA level</th>
