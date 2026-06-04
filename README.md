@@ -140,7 +140,7 @@
 | OA | 1A | 15,121 | 51.5% |
 | OA | 1B | 5,467 | 18.6% |
 
-> **Note.** Percentages may not sum exactly to 100% due to rounding.*
+> **Note.** Percentages may not sum exactly to 100% due to rounding.
 
 ---
 
