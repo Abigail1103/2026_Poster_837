@@ -1,4 +1,6 @@
-# 2026poster (待定title)
+# 2026 ASIS&T Poster 837
+## 《What, Not Who or Why: Dual-Use Ambiguity and Reuse in Cybersecurity and Jailbreak Prompt Datasets》
+
 This repository provides supplementary materials for the project, including:
 - Dataset summary
 - Coding scheme
