@@ -162,3 +162,13 @@ These materials document the data sources, coding criteria, and aggregate result
 | **Total** | **8,759** | **15,121** | **5,467** | **29,347** |
 > **Note.** Cell percentages indicate the distribution of operational actionability levels within each CFA level. 
 
+---
+
+### Relationship between Contextual Framing and High Operational Actionability
+
+| CFA | OA = 1B |
+|---|---:|
+| CFA = 0 | 8.3% |
+| CFA = 1A | 74.2% |
+| CFA = 1B | 87.9% |
+
