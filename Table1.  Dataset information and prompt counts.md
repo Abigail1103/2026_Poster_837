@@ -1,6 +1,6 @@
-<h3 align="center">
+<h2 align="center">
   <strong>Table 1. Dataset information and prompt counts</strong>
-</h3>
+</h2>
 
 <table align="center">
 <thead>
