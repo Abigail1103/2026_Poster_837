@@ -67,7 +67,7 @@
 </tbody>
 </table>
 
-### Datasets locations
+### Dataset locations
 
 | Dataset | Path | Reported Count | Prompt type | Introduction |
 |--------|------|------|-------------|------|
@@ -82,6 +82,5 @@
 
 > **RMCBench Note**：The folder contains two files：`jailbreak-prompt.csv`（78 entries; jailbreak wrapper templates）and `prompt.csv`（473 entries; actual malicious prompts）。The script uses `prompt.csv`。
 
-### Paper Citation
-
+---
 ## Code Table
