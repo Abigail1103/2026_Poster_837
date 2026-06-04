@@ -1,3 +1,5 @@
+<h2>Coding Scheme</h2>
+
 <table>
 <thead>
 <tr>
