@@ -4,7 +4,6 @@ This repository provides supplementary materials for the project, including:
 - Coding scheme
 - Overall descriptive statistics
 - Cross-tabulation of Contextual Framing Availability (CFA) and Operational Actionability (OA)
-- Relation between CFA and OA=1B
 
 These materials document the data sources, coding criteria, and aggregate results used to analyze dual-use ambiguity in cybersecurity prompts.
 
@@ -163,13 +162,5 @@ These materials document the data sources, coding criteria, and aggregate result
 | **Total** | **8,759** | **15,121** | **5,467** | **29,347** |
 > **Note.** Cell percentages indicate the distribution of operational actionability levels within each CFA level. 
 
----
 
-### Relationship between Contextual Framing and High Operational Actionability
-
-| CFA | OA = 1B |
-|---|---:|
-| CFA = 0 | 8.3% |
-| CFA = 1A | 74.2% |
-| CFA = 1B | 87.9% |
 
