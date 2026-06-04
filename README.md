@@ -127,11 +127,7 @@
 </tbody>
 </table>
 
-##CFA × OA cross-tabulation
-<h3 align="center">
-  <strong>Cross-tabulation of CFA and OA</strong>
-</h3>
-
+## CFA × OA cross-tabulation
 <table align="center">
 <thead>
 <tr>
