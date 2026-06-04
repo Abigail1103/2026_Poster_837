@@ -1,5 +1,14 @@
 # 2026poster (待定title)
+This repository provides supplementary materials for the project, including:
+- Dataset summary
+- Coding scheme
+- Overall descriptive statistics
+- Cross-tabulation of Contextual Framing Availability (CFA) and Operational Actionability (OA)
+
+These materials document the data sources, coding criteria, and aggregate results used to analyze dual-use ambiguity in cybersecurity prompts.
+
 ---
+
 ## Dataset Summary
 <h3 align="center">
   <strong>Table 1. Dataset information and prompt counts</strong>
