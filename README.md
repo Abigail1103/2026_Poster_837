@@ -84,7 +84,7 @@ These materials document the data sources, coding criteria, and aggregate result
 |--------|------|------|-------------|------|
 | CySecBench | `datasets/CySecBench/Dataset/Full dataset/cysecbench.csv` | 12,662 | `Prompt` | Direct malicious prompts without jailbreak wrapping. |
 | CyberattackAssistance | `datasets/CyberattackAssistance/mitre_benchmark.json` | 1,000 | `base_prompt` | Contextually wrapped prompts based on MITRE ATT&CK. |
-| CyberLLMInstruct | `datasets/CyberLLMInstruct/dataset_creation/final_dataset/final_cybersecurity_dataset_20260531_042849.json` | 11,906 | `instruction` | Template-generated knowledge Q&A. |
+| CyberLLMInstruct | `datasets/CyberLLMInstruct/dataset_creation/final_dataset/final_cybersecurity_dataset_20260531_042849.json` | 54,928 | `instruction` | Template-generated knowledge Q&A. |
 | MalwareBench | `datasets/MalwareBench/dataset/attack_prompts.xlsx` | 3,520 | `prompt` | Full jailbreak wrapping with multiple AttackMethods.|
 | RMCBench | `datasets/RMCBench/data/csv/prompt.csv` | 473 | `prompt` | Requests of malicious code generation. |
 | llm-attacks | `datasets/llm-attacks/data/advbench/harmful_behaviors.csv` | 520 | `goal` | Direct harmful behavior list. |
